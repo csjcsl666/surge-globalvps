@@ -1,3 +1,6 @@
+GV[中国澳门-MO] = socks5, 10.91.0.1, 8080, user-mo, globe-server-mo
+GV[朝鲜-KP] = socks5, 10.91.0.1, 8080, user-kp, globe-server-kp
+GV[南极洲-AQ] = socks5, 10.91.0.1, 8080, user-aq, globe-server-aq
 GV[阿富汗-AF] = socks5, 10.91.0.1, 8080, user-af, globe-server-af
 GV[阿尔巴尼亚-AL] = socks5, 10.91.0.1, 8080, user-al, globe-server-al
 GV[阿尔及利亚-DZ] = socks5, 10.91.0.1, 8080, user-dz, globe-server-dz
